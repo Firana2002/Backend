@@ -1,0 +1,6 @@
+@VacationPlanning_HostAddress = http://localhost:5172
+
+GET {{VacationPlanning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
